@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Jupyter notebook example - my capstone"
+—
+
 # What makes a Steam Game successful? Can we predict the positive recommendation percentage from those features? #
 
 When making a game, you want it to be considered a success and make money so what features are the most important when it comes to creating a successful game? What should the price be? What genre should it be? Is it better to have a shorter or longer game? These are all factors that should be considered, but might have different importance and weight behind them. Once these features have been determined, can the positive recommendation percentage be predicted using this data. This would allow developers to have a way to determine whether the game idea has a good chance of being successful or not.
