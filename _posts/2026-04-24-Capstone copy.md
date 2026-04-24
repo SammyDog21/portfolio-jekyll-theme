@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jupyter notebook example - my capstone"
-—
+---
 
 # What makes a Steam Game successful? Can we predict the positive recommendation percentage from those features? #
 
